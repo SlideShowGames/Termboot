@@ -1,5 +1,6 @@
 # Termboot
 A "fake package" for all linux distros that have the .bashrc file. This may fork best on Arch Linux since thats what I made it with.
+# THIS ONLY WORKS ON TERMINALS WITH THE BASH SHEEL NOT ZSH
 # How to Install
 You can't actully install Termboot instead you have to follow these steps...
 1. git clone and extract the zip into Documents (or move the folder)
