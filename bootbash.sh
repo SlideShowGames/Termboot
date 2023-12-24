@@ -9,7 +9,8 @@ time
 echo
 read -p "Do termboot? (y/n)" choice
 case "$choice" in
-y|Y ) termboot;;
+y|Y ) cd Documents/Termboot/
+bash termboot.sh;;
 n|N ) clear;;
 * ) echo "Type N or Y it is not case sensitive";;
 esac
