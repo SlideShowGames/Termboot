@@ -1,4 +1,5 @@
-echo "(#!/bin/bash)"
+#!/bin/bash
+
 echo "Welcome to Konsole Version 23.08.4"
 echo "(c) 1997-2022, The Konsole Developers"
 echo "https://konsole.kde.org/"
